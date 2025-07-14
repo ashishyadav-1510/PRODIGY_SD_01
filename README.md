@@ -48,6 +48,11 @@ def kelvin_to_fahrenheit(k): return (((k - 273.15) * 9/5) + 32)
 ```
 
 ## ScreenShots
+## Code:
+![image](https://github.com/ashishyadav-1510/PRODIGY_SD_01/blob/main/Screenshots/Screenshot%202025-07-14%20102659.png?raw=true)
+![image](https://github.com/ashishyadav-1510/PRODIGY_SD_01/blob/main/Screenshots/Screenshot%202025-07-14%20102707.png?raw=true)
+## Output:
+![image](https://github.com/ashishyadav-1510/PRODIGY_SD_01/blob/main/Screenshots/Screenshot%202025-07-14%20102835.png?raw=true)
 
 ### Explaination
 
